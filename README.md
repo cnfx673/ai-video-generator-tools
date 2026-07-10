@@ -4,12 +4,17 @@ Filming videos takes hours of setup, expensive equipment, and professional editi
 
 ***
 
+## **[ImagineClip](https://imagineclip.com)**
+
+Freemium AI video generator for avatar clips, stylized scenes, and social-ready videos from prompts, images, and effects.
+
+***
+
 ## **[Synthesia](https://synthesia.io)**
 
 Leading AI video platform with 240+ ultra-realistic avatars, one-click translation into 140+ languages, and enterprise-grade security trusted by thousands of companies worldwide.
 
 ![Synthesia Screenshot](image/synthesia.webp)
-
 
 Synthesia dominates the AI video space by making professional video production as simple as creating a PowerPoint presentation. The platform hosts over 240 diverse AI avatars based on real human models, including both pre-made expressive avatars and custom personal avatars that digitally replicate yourself. This eliminates the need for cameras, studios, or on-screen talent entirely.
 
