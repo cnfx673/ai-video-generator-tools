@@ -61,6 +61,16 @@ The platform includes a vast library of stock footage, images, and audio clips t
 
 ---
 
+## **[videos.social](https://videos.social/?utm_source=cnfx673-ai-video-generator-tools&utm_medium=directory&utm_campaign=listing-wave-d)**
+Turn blogs, PDFs, and prompts into editable faceless videos.
+
+videos.social is for content marketers and social short-form: paste a blog, PDF, or prompt and get an editable script, storyboard, and voiceover instead of a locked one-shot regenerate.
+
+- **Best for:** creators and marketing teams who need long-form to short video without a reshoot.
+- **Start:** free first render; credit packs from $10; 1 credit = 1 render.
+
+One export is enough to judge the cut before buying.
+
 ## **[Descript](https://www.descript.com)**
 
 Revolutionary text-based video editor combining transcription-driven editing, podcast production, screen recording, and AI assistant Underlord for automated tasks.
